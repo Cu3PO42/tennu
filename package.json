@@ -52,7 +52,7 @@
     "prefix-event-subscriber": "^1.1.1",
     "r-result": "^1.0.0",
     "simplesets": "^1.2.0",
-    "tennu-plugins": "^3.1.0"
+    "tennu-plugins": "git://github.com/Cu3PO42/tennu-plugins.git"
   },
   "devDependencies": {
     "@havvy/mock-net-socket": "^2",
